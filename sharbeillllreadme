@@ -1,0 +1,18 @@
+1.2	Need of the application
+
+There are large numbers of commercial Online Shopping applications offering many products tailored to meet the shopping interests of many customers. These online marketplaces have thousands of products listed under various categories.
+
+Problem:
+
+•	Lack of Interactivity: Current mobile shopping apps lack interactivity, which diminishes user engagement and satisfaction.
+•	Traditional User Interfaces with Postbacks: The use of conventional user interfaces leads to frequent postbacks to the server, resulting in delays in displaying results and frustrating user experiences.
+•	Limited Search Engine Functionality: Many mobile shopping apps lack robust search engines, limiting users' ability to refine search results based on specific parameters effectively.
+•	Non-User-Friendly Interfaces: Outdated and non-intuitive interfaces hinder users from navigating and interacting efficiently within mobile shopping apps.
+
+Solution:
+
+•	Enhanced Search Tool: The Mobile Shopping Application aims to provide users with a flexible and powerful search tool, allowing them to create various search criteria combinations for a comprehensive search experience.
+•	Adoption of Asynchronous Techniques: Leveraging modern asynchronous techniques, such as real-time updates and data loading, the application eliminates unnecessary delays, enabling seamless interaction with the platform.
+•	Interactive Interface Design: Implement an interactive interface optimized for mobile devices, focusing on intuitive navigation and user engagement. Utilize modern design principles and mobile user experience (UX) patterns to enhance usability.
+•	Advanced Search Engine: Develop a sophisticated search engine that retrieves relevant products based on user queries and allows users to refine search results using various filters and parameters, ensuring efficient product discovery.
+•	Drag and Drop Functionality: Introduce intuitive drag-and-drop features that enable users to manage their shopping carts effortlessly. This modern interface element enhances user experience by simplifying the process of adding and removing products from the cart, enhancing overall usability and convenience in the mobile application environment.
